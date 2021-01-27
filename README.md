@@ -1,2 +1,2 @@
-# colorhex.github.io
+# ColorHexCode
 http://colorhexcode.top
