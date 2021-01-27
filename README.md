@@ -1,2 +1,1 @@
 # ColorHexCode
-http://colorhexcode.top
